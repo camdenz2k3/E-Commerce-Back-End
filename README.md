@@ -13,4 +13,4 @@ The application uses dotenv, express, mysql2 and sequelize. These can all be ins
 ## Usage
 Below is a walkthrough video containing the steps on how to use it.
 ## Video Link
-[Click for Walkthrough Video](!https://drive.google.com/file/d/1sCVIYYMZ0by0uwF9qUcmE9TpxavCjT_h/view)
+[Click for Walkthrough Video](https://drive.google.com/file/d/1sCVIYYMZ0by0uwF9qUcmE9TpxavCjT_h/view)
